@@ -6,7 +6,7 @@ My name is Elisha. I'm a Software Developer on the Digital Core team at [BMO Ban
 
 - Building mobile apps to track anxiety at [Airo Health](https://www.linkedin.com/company/airo-health/about/);
 - Revamping web apps to drive donations at [Mon Sheong Foundation](https://www.monsheong.org/about-us/);
-- Developing dynamic videos for financial institutions and insurance companies at [Rich Media](https://www.richmedia.com/).
+- Developing dynamic videos to improve engagement at [Rich Media](https://www.richmedia.com/).
 
 ---
 
